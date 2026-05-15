@@ -1,8 +1,8 @@
 # Football Radar Plot Visualisation
 
-A Python-based football analytics project focused on creating radar plots from FBref/Opta-derived player statistics.
+A Python-based football analytics project focused on creating radar charts from opta via FBref player stats.
 
-The project explores player profiling and performance comparison through statistical visualisation, inspired by the project from the Soccermatics course.
+The project explores player performance comparison through visualisation, inspired by the project from the Soccermatics course.
 
 ## Features
 
@@ -12,7 +12,7 @@ The project explores player profiling and performance comparison through statist
 - Custom metric selection
 - Data visualisation using Python
 
-## Technologies Used
+## What was used
 
 - Python
 - pandas
