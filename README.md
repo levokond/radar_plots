@@ -1,2 +1,30 @@
-# radar_plots
-Tried to do some of radar plots using the Opta data via FBREF (heavily inspired by ones from the soccermatics course)
+# Football Radar Plot Visualisation
+
+A Python-based football analytics project focused on creating radar plots from FBref/Opta-derived player statistics.
+
+The project explores player profiling and performance comparison through statistical visualisation, inspired by the project from the Soccermatics course.
+
+## Features
+
+- Player radar plots
+- Statistical normalisation
+- Performance comparison across positions
+- Custom metric selection
+- Data visualisation using Python
+
+## Technologies Used
+
+- Python
+- pandas
+- matplotlib
+- NumPy
+- Jupyter Notebook
+
+## Data Source
+
+Public football statistics from FBref (when it still had data).
+Soccermatics course: https://soccermatics.readthedocs.io/en/latest/
+
+## Goal
+
+The goal of the project is to explore how football data can be used for meaningful visualisations for player analysis and scouting.
