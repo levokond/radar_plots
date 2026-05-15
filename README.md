@@ -1,4 +1,4 @@
-# Football Radar Plot Visualisation
+# Player Stats Pie Chart Viz
 
 A Python-based football analytics project focused on creating radar charts from opta via FBref player stats.
 
